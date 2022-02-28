@@ -6,6 +6,8 @@ namespace list
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Este es un cambio");
+
             LinkedList team1 = new LinkedList();
             LinkedList team2 = new LinkedList();
             LinkedList team3 = new LinkedList();
